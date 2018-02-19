@@ -309,27 +309,27 @@
 
                 <div class="row wow fadeInUp">
 
-                    <div class="col-md-2 col-md-offset-3">
+                    <div class="col-md-2 ">
                         <a href="http://sandshumanresource.com.np/" target="_blank"> <img class="img-fluid" src="img/clients/snslogo.png" alt=""></a>
                     </div>
 
-                    <div class="col-md-2 col-md-offset-3">
+                    <div class="col-md-2 ">
                         <img class="img-fluid" src="img/clients/client-2.png" alt="">
                     </div>
 
-                    <div class="col-md-2 col-md-offset-3">
+                    <div class="col-md-2">
                         <img class="img-fluid" src="img/clients/client-3.png" alt="">
                     </div>
 
-                    <div class="col-md-2 col-md-offset-3">
+                    <div class="col-md-2">
                         <img class="img-fluid" src="img/clients/client-4.png" alt="">
                     </div>
 
-                    <div class="col-md-2 col-md-offset-3">
+                    <div class="col-md-2">
                         <img class="img-fluid" src="img/clients/client-5.png" alt="">
                     </div>
 
-                    <div class="col-md-2 col-md-offset-3">
+                    <div class="col-md-2">
                         <img class="img-fluid" src="img/clients/client-6.png" alt="">
                     </div>
 
@@ -846,8 +846,8 @@
 
                     <div class="col-lg-5 col-md-8">
                         <div class="form">
-                            <div id="sendmessage"><a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>Your message has been sent. Thank you!</div>
-                            <div id="errormessage"><a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>Message not sent. Please Try again.</div>
+                            <div id="sendmessage">Your message has been sent. Thank you!</div>
+                            <div id="errormessage"></div>
                             <form action="" method="post" role="form" class="contactForm">
                                 <div class="form-row">
                                     <div class="form-group col-lg-6">
