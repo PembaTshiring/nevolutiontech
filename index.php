@@ -443,7 +443,7 @@
                             </script>
                             <div class="container">
                                 <div class="row-fluid">
-                                    <form method="post" action="" enctype="multipart/form-data" onsubmit="return validateContactForm(this);">
+                                    <form method="post" action="quotemailer.php" enctype="multipart/form-data" onsubmit="return validateContactForm(this);">
 
                                         <div class="col-md-12">
                                             <div class="form-group">
@@ -852,7 +852,7 @@
                                 <div class="form-row">
                                     <div class="form-group col-lg-6">
                                         <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
-                                        <div class="validation"></div>
+                                       <div class="validation"></div>
                                     </div>
                                     <div class="form-group col-lg-6">
                                         <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
