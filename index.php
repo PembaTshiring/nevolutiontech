@@ -187,7 +187,7 @@
                             <div class="wow fadeInLeft text-center">
                                 <h2>The Web Designing Process</h2>
                             </div>
-                            <img class="advanced-feature-img-right wow fadeInRight" src="img/process.png" alt="">
+                            <img class="wow fadeInRight process img-fluid" src="img/process.png" alt="">
 
                         </div>
                     </div>

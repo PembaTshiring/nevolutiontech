@@ -866,6 +866,12 @@ body.mobile-nav-active #mobile-nav-toggle {
         max-width: 50%;
     }
 }
+@media (max-width: 700px) {
+    #advanced-features .process,
+     {
+        max-width: 50%;
+    }
+}
 
 @media (max-width: 767px) {
     #advanced-features .advanced-feature-img-right,
