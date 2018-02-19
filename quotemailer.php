@@ -52,5 +52,5 @@
     } catch (Exception $e) {
         echo "Message could not be sent.";
     }
-	header('Location: http://www.index.com/');    
+	header('Location: index.php');    
 ?>

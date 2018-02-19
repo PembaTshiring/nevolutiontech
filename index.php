@@ -341,7 +341,7 @@
         <!--==========================
       Pricing Section
     ============================-->
-        <section id="pricing" class="section-bg">
+       <section id="pricing" class="section-bg">
             <div class="container">
 
                 <div class="section-header">
@@ -354,14 +354,14 @@
 
                     <div class="col-lg-4 col-md-6">
                         <div class="box wow fadeInLeft">
-                            <h3>Free</h3>
-                            <h4><sup>$</sup>0<span> month</span></h4>
+                            <h4>Basic</h4>
+                            <h2><sup>Rs</sup>25000-35000</h2>
                             <ul>
-                                <li><i class="ion-android-checkmark-circle"></i> Quam adipiscing vitae proin</li>
-                                <li><i class="ion-android-checkmark-circle"></i> Nec feugiat nisl pretium</li>
-                                <li><i class="ion-android-checkmark-circle"></i> Nulla at volutpat diam uteera</li>
-                                <li><i class="ion-android-checkmark-circle"></i> Pharetra massa massa ultricies</li>
-                                <li><i class="ion-android-checkmark-circle"></i> Massa ultricies mi quis hendrerit</li>
+                                <li><i class="ion-android-checkmark-circle"></i> 5 pages, 3 design revision concept</li>
+                                <li><i class="ion-android-checkmark-circle"></i> Mobile Resonsive Layout</li>
+                                <li><i class="ion-android-checkmark-circle"></i> Contact form</li>
+                                <li><i class="ion-android-checkmark-circle"></i> Social Media Integration(FREE)</li>
+                                <li><i class="ion-android-checkmark-circle"></i> Hosting for 1 year (FREE)</li>
                             </ul>
                             <a href="#" class="get-started-btn" data-toggle="modal" data-target="#quoteform">Get a Quote</a>
                         </div>
@@ -369,14 +369,14 @@
 
                     <div class="col-lg-4 col-md-6">
                         <div class="box featured wow fadeInUp">
-                            <h3>Business</h3>
-                            <h4><sup>$</sup>29<span> month</span></h4>
+                            <h4>Business</h4>
+                            <h2><sup>Rs</sup>45000-80000</h2>
                             <ul>
-                                <li><i class="ion-android-checkmark-circle"></i> Quam adipiscing vitae proin</li>
-                                <li><i class="ion-android-checkmark-circle"></i> Nec feugiat nisl pretium</li>
-                                <li><i class="ion-android-checkmark-circle"></i> Nulla at volutpat diam uteera</li>
-                                <li><i class="ion-android-checkmark-circle"></i> Pharetra massa massa ultricies</li>
-                                <li><i class="ion-android-checkmark-circle"></i> Massa ultricies mi quis hendrerit</li>
+                                <li><i class="ion-android-checkmark-circle"></i> 20 pages, 3 design revision concept</li>
+                                 <li><i class="ion-android-checkmark-circle"></i> Wordpress, Mobile Rsponsive Layout</li>
+                                <li><i class="ion-android-checkmark-circle"></i> Cross browser compatible</li>
+                                 <li><i class="ion-android-checkmark-circle"></i>Social Media Integration (Free)</li>
+                                <li><i class="ion-android-checkmark-circle"></i> Hosting for 1 year(FREE)</li>
                             </ul>
                             <a href="#" class="get-started-btn" data-toggle="modal" data-target="#quoteform">Get a Quote</a>
                         </div>
@@ -384,14 +384,14 @@
 
                     <div class="col-lg-4 col-md-6">
                         <div class="box wow fadeInRight">
-                            <h3>Developer</h3>
-                            <h4><sup>$</sup>49<span> month</span></h4>
+                            <h4>Pro </h4>
+                            <h2><sup>Rs</sup>80000+</h2>
                             <ul>
-                                <li><i class="ion-android-checkmark-circle"></i> Quam adipiscing vitae proin</li>
-                                <li><i class="ion-android-checkmark-circle"></i> Nec feugiat nisl pretium</li>
-                                <li><i class="ion-android-checkmark-circle"></i> Nulla at volutpat diam uteera</li>
-                                <li><i class="ion-android-checkmark-circle"></i> Pharetra massa massa ultricies</li>
-                                <li><i class="ion-android-checkmark-circle"></i> Massa ultricies mi quis hendrerit</li>
+                                <li><i class="ion-android-checkmark-circle"></i> 50+ pages, 10 design revision concept</li>
+                                <li><i class="ion-android-checkmark-circle"></i> Wordpress, CMS, Web application</li>
+                                <li><i class="ion-android-checkmark-circle"></i>E-commerces</li>
+                                <li><i class="ion-android-checkmark-circle"></i> Mobile Responsive Layout</li>
+                                <li><i class="ion-android-checkmark-circle"></i>Social Media Integration (Free)</li>
                             </ul>
                             <a href="#" class="get-started-btn" data-toggle="modal" data-target="#quoteform">Get a Quote</a>
                         </div>
