@@ -455,7 +455,7 @@ h6 {
     margin: 0;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 908px) {
     #nav-menu-container {
         display: none;
     }
@@ -530,7 +530,7 @@ h6 {
     color: #03366d;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 908px) {
     #mobile-nav-toggle {
         display: inline;
     }
@@ -860,7 +860,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     padding: 0 30px 30px 0;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 991px) {
     #advanced-features .advanced-feature-img-right,
     #advanced-features .advanced-feature-img-left {
         max-width: 50%;
