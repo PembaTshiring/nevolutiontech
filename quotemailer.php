@@ -48,9 +48,9 @@
         $mail->Body    = $body;
         // $mail->AltBody = strip_tags($body);
         $mail->send();
-        echo "Message has been sent";
+        //echo "Message has been sent";
     } catch (Exception $e) {
         echo "Message could not be sent.";
     }
-    
+	header('Location: http://www.index.com/');    
 ?>
